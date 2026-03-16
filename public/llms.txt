@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Alfavet delivers compassionate veterinary care across two Jerusalem branches. Book appointments online and give your pet the expert attention they deserve.
+
+### Services
+https://example.com/services
+From routine vaccinations to comprehensive health exams, our veterinarian team provides modern pet care solutions. Explore our full range of veterinary services today.
+
+### Branches
+https://example.com/branches
+Visit either of our accessible eastside veterinary clinic branches in Jerusalem. Find the location nearest you and experience quality pet care close to home.
+
+### Contact
+https://example.com/contact
+Request an appointment through our easy online booking system. Our Jerusalem veterinary clinic staff will confirm your visit and answer all your pet care questions.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
